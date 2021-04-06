@@ -1,0 +1,1 @@
+This code is to generate probability distributions- Gaussian, Lorentz, Rayleigh, and Poisson- and plot them using gnuplot 
