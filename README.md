@@ -1,4 +1,6 @@
 # Numerical-Methods
-Distribution
-  To generate random numbers for a given distribution and find their histogram 
-  This code is to generate probability distributions- Gaussian, Lorentz, Rayleigh, and Poisson- and plot them using gnuplpt
+This repository contains some of the code written for assignments under EE1103 (First Semester-2019) in IITM, under Prof. Anil Prabhakar.
+
+The collaborators for the code should be mentioned at the top, in the comments. (Kevin Martin + Phani Jayanth for a few and Snehan for the rest).
+
+This code is only put up to show some example-code! Please don't use if the same assignments come up again.
