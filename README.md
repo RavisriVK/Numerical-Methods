@@ -3,8 +3,6 @@ This repository contains some of the code written for assignments as part of EE1
 
 The collaborators for the code should be mentioned at the top, in the comments. (Kevin Martin + Phani Jayanth for a few and Snehan for the rest).
 
-This code is only put up to show some example-code! Please don't use if the same projects come up again.
-
 There are a couple of projects that you can open up and see:
 
 # Real Time Fluorescent Data Analysis:
