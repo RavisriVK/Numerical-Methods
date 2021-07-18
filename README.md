@@ -20,4 +20,4 @@ Trying to figure out the offset that minimizes the edit distance between two bit
 # Foucalt Pendulum:
 By solving the differential equations governing a foucalt pendulum using certain estimation techniques (look at the description), we can simulate the motion of the pendulum.
 
-**Ordinary Differential Equations - FoucaltPendulum.pdf **
+**Ordinary Differential Equations - FoucaltPendulum.pdf**
