@@ -3,8 +3,6 @@ This repository contains some of the code written for assignments as part of EE1
 
 The collaborators for the code should be mentioned at the top, in the comments. (Kevin Martin + Phani Jayanth for a few and Snehan for the rest).
 
-There are a couple of projects that you can open up and see:
-
 # Real Time Fluorescent Data Analysis:
 A beam of light is passed through a stream of blood cells, and forward scatter and side scatter information is recorded.
 By correlating peaks in the two data streams, we need to obtain a count of the the number of different types of blood cells.
